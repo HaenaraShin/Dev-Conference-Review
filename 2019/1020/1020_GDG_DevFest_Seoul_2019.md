@@ -12,6 +12,6 @@
 - DevFest란 이름에 걸맞게 볼거리 즐길거리가 많은 행사였다.
 - 개인적으로는 세션도 세션이지만, GitHub PR로 [방명록](https://gdg-seoul.github.io/DevFest-Seoul-2019-guestbook/)을 받는 이벤트가 가장 인상깊었다.
 
-## 인증샷
+## 📸 인증샷
 
 ![인증샷](self.jpg)
