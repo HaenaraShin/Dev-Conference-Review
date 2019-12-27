@@ -1,6 +1,6 @@
-# DroidKnights
+# DroidKnights 2018
 
-![DroidKnights](image.jpg)
+![DroidKnights 2018](image.jpg)
 
 - ⏰ 일시 : 2018. 04. 22 (일)
 - 💁 주최 : DroidKnights Community
