@@ -20,6 +20,7 @@
 ## 2. 출근길 자면서 공부하기
 
 - 🎤 발표자 : 신해나라 키즈노트
+- 📎 발표자료 : [다운로드](https://www.dropbox.com/s/adbl2tsoa6p2shd/%EC%B6%9C%EA%B7%BC%EA%B8%B8%EC%9E%90%EB%A9%B4%EC%84%9C%EA%B3%B5%EB%B6%80_LifeHackathon_%EC%8B%A0%ED%95%B4%EB%82%98%EB%9D%BC2.pdf?dl=0)
 - ✏️ 요약 : 휴대폰의 TTS 기능을 이용하여 IT업계 소식과 칼럼을 들으며 출근할 수 있는 꿀팁
 
 
