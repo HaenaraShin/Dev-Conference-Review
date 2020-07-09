@@ -15,3 +15,34 @@
 ## 📸 인증샷
 
 ![인증샷](self.jpg)
+
+## 1. 새로운 안드로이드 훑어보기
+
+- 🎤 발표자 : 노현석
+- 📎 발표자료 : [다운로드](https://speakerdeck.com/pluu/o-19-extended-in-korea-android-whats-new-in-android)
+
+
+## 2. Kotlin Under the Hood
+
+- 🎤 발표자 : 도창욱
+- 📎 발표자료 : [다운로드](https://speakerdeck.com/cwdoh/hey-kotlin-how-it-works)
+
+## 3. Android Accessibility
+
+- 🎤 발표자 : 강경완
+- 📎 발표자료 : [다운로드](https://www.slideshare.net/ssuser3e521c/android-accessibility-for-everyone-150567515)
+
+## 4. Privacy Changes in Android Q
+
+- 🎤 발표자 : 하동현
+- 📎 발표자료 : [다운로드](https://speakerdeck.com/hadonghyun/privacy-changes-in-android-q)
+
+## 5. What's New in Shared Storage 
+
+- 🎤 발표자 : 안명욱
+- 📎 발표자료 : [다운로드](https://www.slideshare.net/myungwookahn/io-19-extended-in-korea-android-whats-new-in-shared-storage)
+
+## 6. Flutter ❤️ ML Kit
+
+- 🎤 발표자 : 조셩윤
+- 📎 발표자료 : [다운로드](https://www.slideshare.net/ssuserf65996/io-19-extended-android-fluttermlkit)
